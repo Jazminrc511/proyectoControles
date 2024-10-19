@@ -167,8 +167,9 @@ Partial Class Soldadura
         ' btnRegresar
         ' 
         btnRegresar.Anchor = AnchorStyles.Top
-        btnRegresar.BackColor = Color.MediumOrchid
+        btnRegresar.BackColor = Color.Green
         btnRegresar.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnRegresar.ForeColor = Color.White
         btnRegresar.Location = New Point(1054, 709)
         btnRegresar.Name = "btnRegresar"
         btnRegresar.Size = New Size(194, 63)
@@ -180,7 +181,7 @@ Partial Class Soldadura
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        BackColor = Color.FromArgb(CByte(192), CByte(192), CByte(255))
+        BackColor = Color.FromArgb(CByte(192), CByte(255), CByte(192))
         ClientSize = New Size(1393, 863)
         Controls.Add(btnRegresar)
         Controls.Add(PictureBox5)

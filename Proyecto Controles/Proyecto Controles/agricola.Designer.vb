@@ -191,8 +191,9 @@ Partial Class agricola
         ' btnRegresar
         ' 
         btnRegresar.Anchor = AnchorStyles.Top
-        btnRegresar.BackColor = Color.MediumTurquoise
+        btnRegresar.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         btnRegresar.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnRegresar.ForeColor = Color.White
         btnRegresar.Location = New Point(678, 907)
         btnRegresar.Name = "btnRegresar"
         btnRegresar.Size = New Size(194, 63)
@@ -204,7 +205,7 @@ Partial Class agricola
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        BackColor = Color.FromArgb(CByte(192), CByte(255), CByte(255))
+        BackColor = Color.FromArgb(CByte(192), CByte(255), CByte(192))
         ClientSize = New Size(1349, 1055)
         Controls.Add(btnRegresar)
         Controls.Add(PictureBox6)

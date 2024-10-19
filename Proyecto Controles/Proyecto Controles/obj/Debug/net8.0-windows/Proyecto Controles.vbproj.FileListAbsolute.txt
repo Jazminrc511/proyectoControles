@@ -49,3 +49,9 @@ C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industr
 C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto_Controles.Soldadura.resources
 C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto_Controles.excavacion.resources
 C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto_Controles.agricola.resources
+C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto_Controles.alturaAdmin.resources
+C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto_Controles.electricidadAdmin.resources
+C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto_Controles.excavacionAdmin.resources
+C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto_Controles.agricolaAdmin.resources
+C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto_Controles.Soldador.resources
+C:\Users\jazmi\OneDrive\Desktop\USAC\Uni 2024\Segundo Semestre\Controles Industriales\Proyecto\Proyecto Controles\Proyecto Controles\obj\Debug\net8.0-windows\Proyecto Controles.sourcelink.json

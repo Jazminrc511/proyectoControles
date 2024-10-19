@@ -145,6 +145,7 @@ Partial Class EPPAlturas
         Label5.Size = New Size(386, 48)
         Label5.TabIndex = 8
         Label5.Text = "Guantes de protección"
+        Label5.TextAlign = ContentAlignment.TopCenter
         ' 
         ' PictureBox5
         ' 
@@ -193,8 +194,9 @@ Partial Class EPPAlturas
         ' btnRegresar
         ' 
         btnRegresar.Anchor = AnchorStyles.Top
-        btnRegresar.BackColor = Color.FromArgb(CByte(255), CByte(128), CByte(0))
+        btnRegresar.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         btnRegresar.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnRegresar.ForeColor = Color.White
         btnRegresar.Location = New Point(206, 835)
         btnRegresar.Name = "btnRegresar"
         btnRegresar.Size = New Size(194, 63)
@@ -206,7 +208,7 @@ Partial Class EPPAlturas
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        BackColor = Color.FromArgb(CByte(255), CByte(224), CByte(192))
+        BackColor = Color.FromArgb(CByte(192), CByte(255), CByte(192))
         ClientSize = New Size(1436, 1055)
         Controls.Add(btnRegresar)
         Controls.Add(Label7)

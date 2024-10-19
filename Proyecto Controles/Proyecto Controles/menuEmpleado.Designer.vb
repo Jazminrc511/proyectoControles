@@ -36,8 +36,9 @@ Partial Class menuEmpleado
         ' btnlAlturas
         ' 
         btnlAlturas.Anchor = AnchorStyles.Top
-        btnlAlturas.BackColor = Color.FromArgb(CByte(255), CByte(192), CByte(192))
+        btnlAlturas.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         btnlAlturas.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnlAlturas.ForeColor = Color.White
         btnlAlturas.Location = New Point(116, 193)
         btnlAlturas.Name = "btnlAlturas"
         btnlAlturas.Size = New Size(189, 99)
@@ -48,8 +49,9 @@ Partial Class menuEmpleado
         ' btnElectricidad
         ' 
         btnElectricidad.Anchor = AnchorStyles.Top
-        btnElectricidad.BackColor = Color.FromArgb(CByte(255), CByte(255), CByte(192))
+        btnElectricidad.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         btnElectricidad.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnElectricidad.ForeColor = Color.White
         btnElectricidad.Location = New Point(674, 193)
         btnElectricidad.Name = "btnElectricidad"
         btnElectricidad.Size = New Size(231, 99)
@@ -60,8 +62,9 @@ Partial Class menuEmpleado
         ' btnSoldadura
         ' 
         btnSoldadura.Anchor = AnchorStyles.Top
-        btnSoldadura.BackColor = Color.FromArgb(CByte(192), CByte(192), CByte(255))
+        btnSoldadura.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         btnSoldadura.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnSoldadura.ForeColor = Color.White
         btnSoldadura.Location = New Point(116, 487)
         btnSoldadura.Name = "btnSoldadura"
         btnSoldadura.Size = New Size(189, 99)
@@ -72,8 +75,9 @@ Partial Class menuEmpleado
         ' Button3
         ' 
         Button3.Anchor = AnchorStyles.Top
-        Button3.BackColor = Color.FromArgb(CByte(192), CByte(255), CByte(255))
+        Button3.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         Button3.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Button3.ForeColor = Color.White
         Button3.Location = New Point(416, 327)
         Button3.Name = "Button3"
         Button3.Size = New Size(189, 99)
@@ -84,8 +88,9 @@ Partial Class menuEmpleado
         ' btnExcava
         ' 
         btnExcava.Anchor = AnchorStyles.Top
-        btnExcava.BackColor = Color.FromArgb(CByte(255), CByte(192), CByte(255))
+        btnExcava.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         btnExcava.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnExcava.ForeColor = Color.White
         btnExcava.Location = New Point(674, 487)
         btnExcava.Name = "btnExcava"
         btnExcava.Size = New Size(189, 99)
@@ -120,8 +125,9 @@ Partial Class menuEmpleado
         ' VerAcuerdo
         ' 
         VerAcuerdo.Anchor = AnchorStyles.Top
-        VerAcuerdo.BackColor = Color.PeachPuff
+        VerAcuerdo.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         VerAcuerdo.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        VerAcuerdo.ForeColor = Color.White
         VerAcuerdo.Location = New Point(159, 641)
         VerAcuerdo.Name = "VerAcuerdo"
         VerAcuerdo.Size = New Size(286, 122)
@@ -132,8 +138,9 @@ Partial Class menuEmpleado
         ' usoYLimpieza
         ' 
         usoYLimpieza.Anchor = AnchorStyles.Top
-        usoYLimpieza.BackColor = Color.HotPink
+        usoYLimpieza.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
         usoYLimpieza.Font = New Font("Berlin Sans FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        usoYLimpieza.ForeColor = Color.White
         usoYLimpieza.Location = New Point(553, 641)
         usoYLimpieza.Name = "usoYLimpieza"
         usoYLimpieza.Size = New Size(286, 122)
@@ -145,7 +152,7 @@ Partial Class menuEmpleado
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        BackColor = Color.LightGreen
+        BackColor = Color.FromArgb(CByte(192), CByte(255), CByte(192))
         ClientSize = New Size(1021, 923)
         Controls.Add(usoYLimpieza)
         Controls.Add(VerAcuerdo)

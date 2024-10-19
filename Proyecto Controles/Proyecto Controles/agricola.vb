@@ -4,4 +4,5 @@
         menuEmpleado.Show()
 
     End Sub
+
 End Class
